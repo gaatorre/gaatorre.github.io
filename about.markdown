@@ -4,15 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+We put up with a fair bit of annoyances in our daily lives.
+From living with that one housemate who forgets to flush the toilet sometimes to the blister your new Dr. Martens left on your left ankle.
+But,
+these annoyances come and go.
+Sometimes your housemate does flush and your new boots break in after a few weeks.
+The fact that these annoyances are temporary makes them tolerable.
+But what if they were longer term?
+And what if there was $$$ at stake?
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+This page is dedicated to scenarios of annoyances that linger longer than we're used to.
+We ask questions like:
+> You get a million dollars,
+> but every shoe you wear for a year gives you blisters.
