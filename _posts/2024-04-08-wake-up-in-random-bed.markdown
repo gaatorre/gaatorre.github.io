@@ -2,7 +2,7 @@
 layout: post
 title:  "Random bed somewhere in the world"
 date:   2024-04-08 12:10:00 -0400
-categories: million
+categories: [million]
 ---
 ### Prompt
 You get a million dollars,
